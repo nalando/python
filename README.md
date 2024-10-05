@@ -1,6 +1,6 @@
 # Python 檔案整理
 ## Raw file
-face_detection.py 透過攝像頭偵測人臉
+face_detection.py 透過攝像頭偵測人臉 \n
 Stock_scrapying.py 追蹤當日股票價格
 ARIMA_DQN.py 投稿旺宏作品
 Equation_solver.py 畫出以下方程的圖形(方程可自行設計)
