@@ -1,0 +1,6 @@
+name = input("你的名字是:")
+game = input("你抽了多少抽:")
+ryan = input("中獎次數是:")
+sp = input("限定/UP角抽了幾隻:")
+print( name + "的一般抽卡機率為" + str(( int(ryan) / int(game) ) *100) +" %\n " ) 
+print( name + "的限定/UP角機率為" + str(( int(sp) / int(game) ) *100) +" % " ) 
