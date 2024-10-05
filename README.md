@@ -11,7 +11,7 @@ Equation_solver.py 畫出以下方程的圖形(方程可自行設計)<br/>
 \]
 $**<br/>
 ## Folder
-- English dictionary
-  - Find the word by local<br/>
-- Cat game
- - 透過 pygame 控制一隻貓移動
+English dictionary
+ * Find the word by local<br/>
+Cat game
+ * 透過 pygame 控制一隻貓移動
