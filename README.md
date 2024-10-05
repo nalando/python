@@ -17,3 +17,5 @@ English dictionary
 Cat game
   * 透過 pygame 控制一隻貓移動
 
+## Jupyter notebook
+科展用.ipynb 科展作品
