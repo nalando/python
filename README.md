@@ -2,6 +2,14 @@
 ## Raw file
 face_detection.py 透過攝像頭偵測人臉
 Stock_scrapying.py 追蹤當日股票價格
+ARIMA_DQN.py 投稿旺宏作品
+Equation_solver.py 畫出以下方程的圖形(方程可自行設計)
+$\[
+\cos(x_1) + \frac{x_0}{x_1} \sin(x_1) - x_2^{(x_0 - 1)} \left( \cos(x_1 \log(x_2)) + \frac{x_0}{x_1} \sin(x_1 \log(x_2)) \right) = 0
+\]\[
+\cos(x_1) + \frac{x_0}{x_1} \sin(x_1) - x_2^{(x_0 - 1)} \left( \cos(x_1 \log(x_2)) + \frac{x_0}{x_1} \sin(x_1 \log(x_2)) \right) = 0
+\]
+$
 ## Folder
 English dictionary
 * Find the word by local
