@@ -19,3 +19,4 @@ Cat game
 
 ## Jupyter notebook
 科展用.ipynb 科展作品
+新北科展.ipynb 新北科展作品
