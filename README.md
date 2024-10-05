@@ -1,6 +1,7 @@
 # Python 檔案整理
 ## Raw file
 face_detection.py 透過攝像頭偵測人臉
+Stock_scrapying.py 追蹤當日股票價格
 ## Folder
 English dictionary
 * Find the word by local
